@@ -37,6 +37,7 @@ An independent researcher dedicated to reconstructing our understanding of unive
 * **Ultimate Philosophy:** The further one pursues the Way, the more the destination remains the same (穷其道者，归处亦然).
 
 ---
+*Related: The 150mV Protocol (Micro-scale Logic)
 
 ## License
 This work is licensed under the **MIT License**. The theoretical content is intended for open dissemination under the **CC BY 4.0** standard.
