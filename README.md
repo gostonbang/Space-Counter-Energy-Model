@@ -1,3 +1,4 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999121-blue.svg)](https://doi.org/10.5281/zenodo.18999121)
 # Project: Space Counter Energy (SCE) Theory
 ### An alternative physical framework to unify General Relativity and Quantum Mechanics while replacing Dark Matter and Dark Energy hypotheses.
 
