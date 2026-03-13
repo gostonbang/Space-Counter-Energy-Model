@@ -1,6 +1,8 @@
-Project: Space Counter Energy (SCE) Theory
+#Project: Space Counter Energy (SCE) Theory
+
 An alternative physical framework to unify General Relativity and Quantum Mechanics while replacing Dark Matter and Dark Energy hypotheses.
-🌌 Core Vision
+
+##🌌 Core Vision
 This repository serves as the primary archive for the research, mathematical modeling, and logical derivation of the Space Counter Energy (SCE) theory.
 
 The core objectives of this research are:
@@ -11,7 +13,8 @@ To propose the SCE field as the fundamental mechanism driving cosmic expansion a
 
 To explore a logical unification of General Relativity and Quantum Field Theory through the SCE framework.
 
-🧩 Core Hypotheses
+##🧩 Core Hypotheses
+
 1. Replacing Dark Energy & Dark Matter
 This theory posits that observed galactic rotation anomalies and the accelerating expansion of the universe are not driven by undiscovered substances or energies. Instead, they result from the Space Counter Energy (SCE) field—an intrinsic property of space itself.
 
