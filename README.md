@@ -2,10 +2,10 @@
 The theoretical framework of "Full-Scale Self-Consistency" is officially archived with the following DOIs:
 
 - **Micro-scale (150mV Protocol):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999146-blue)](https://doi.org/10.5281/zenodo.18999146)
-- **Macro-scale (Cosmic Respiration):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19026903-blue)](https://doi.org/10.5281/zenodo.19026903)
+- **Macro-scale (Cosmic Respiration):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19027458-blue)](https://doi.org/10.5281/zenodo.19027458)
 
 *Verification includes the "1 cm" anomalous displacement audit (NORAD ID 25731) and the 150mV Nitrogen-Fixation threshold.*
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19026903-blue.svg)](https://doi.org/10.5281/zenodo.19026903)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19027458-blue.svg)](https://doi.org/10.5281/zenodo.19027458)
 # Project: Space Counter Energy (SCE) Theory
 ### An alternative physical framework to unify General Relativity and Quantum Mechanics while replacing Dark Matter and Dark Energy hypotheses.
 
