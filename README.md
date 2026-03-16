@@ -2,7 +2,7 @@
 The theoretical framework of "Full-Scale Self-Consistency" is officially archived with the following DOIs:
 
 - **Micro-scale (150mV Protocol):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999146-blue)](https://doi.org/10.5281/zenodo.18999146)
-- **Macro-scale (ULF & Cosmic Respiration):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19047388-blue)](https://doi.org/10.5281/zenodo.19047388)
+- **Macro-scale (ULF & Cosmic Respiration):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19051779-blue)](https://doi.org/10.5281/zenodo.19051779)
 
 *Verification includes the "1 cm" anomalous displacement audit (NORAD ID 25731), the ULF "Logic Sliding" model, and the 150mV Nitrogen-Fixation threshold.*
 
