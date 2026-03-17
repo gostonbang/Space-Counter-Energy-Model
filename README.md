@@ -6,7 +6,7 @@ The theoretical framework of "Full-Scale Self-Consistency" is officially archive
 
 *Verification includes the "1 cm" anomalous displacement audit (NORAD ID 25731), the ULF "Logic Sliding" model, and the 150mV Nitrogen-Fixation threshold.*
 
-- **Experimental & Engineering (Propulsion & Pulsar Audit):** [![DOI](https://img.shields.io/badge/DOI--10.5281/zenodo.1906432-yellow)](https://doi.org/10.5281/zenodo.19064321)
+- **Experimental & Engineering (Propulsion & Pulsar Audit):** [![DOI](https://img.shields.io/badge/DOI-PENDING-yellow)](https://doi.org/10.5281/zenodo.19064321)
 
 # Project: Space Counter Energy (SCE) Theory & ULF Framework
 ### An alternative physical framework to unify General Relativity and Quantum Mechanics while formally DECOMMISSIONING the Dark Matter hypothesis.
