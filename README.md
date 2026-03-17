@@ -33,6 +33,10 @@ Information is not weightless. We hypothesize that:
 **$\Delta Mass = f(Logic\_Density, Activation\_Voltage)$**
 As logic density increases, the voltage required to "activate" the ULF within that space increases. AI server clusters should exhibit a marginal mass increase when powered on.
 
+### 4. Phase-Difference Propulsion (相位差推进)
+The engineering application of the SCE/ULF framework. 
+- **Mechanism:** Utilizing asymmetric high-voltage discharge ($\Delta \Phi$) to activate ULF at one end of a craft, creating an artificial **SCE pressure gradient**.
+- **The "Logic-One" Thruster:** A propellantless engine design capable of constant acceleration by "slicing" through the cosmic background pressure.
 ## 🌍 Galactic Auditing
 - **Mirror Earth:** A predicted habitable system at the 180° galactic orbital symmetry point.
 - **Geomagnetic Grip:** Explaining the Cretaceous Normal Superchron (CNS) through stable SCE galactic plains.
