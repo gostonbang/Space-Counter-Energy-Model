@@ -1,3 +1,7 @@
+## 🔬 Experimentalists Wanted: We are seeking global labs to validate the 1.2 MV "Return-Source Probe" protocol. Check the [Experimental Logs] for the audit template.
+
+[![Status: Experimental Audit](https://img.shields.io/badge/Status-Experimental_Audit-blueviolet?style=for-the-badge)](https://github.com/gostonbang/Space-Counter-Energy-Model/discussions/categories/experimental-logs-distributed)
+
 ## 🔗 Academic Proof & Logical Anchors
 The theoretical framework of "Full-Scale Self-Consistency" is officially archived with the following DOIs:
 
